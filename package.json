@@ -6,7 +6,8 @@
 	"publisher": "tillahoffmann",
 	"displayName": "Snakeviz",
 	"description": "Visualize python profiling results using snakeviz.",
-	"version": "0.0.1",
+	"icon": "icon.png",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.66.0"
 	},
