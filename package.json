@@ -3,6 +3,7 @@
 	"repository": {
 		"url": "https://github.com/tillahoffmann/vscode-snakeviz"
 	},
+	"publisher": "tillahoffmann",
 	"displayName": "Snakeviz",
 	"description": "Visualize python profiling results using snakeviz.",
 	"version": "0.0.1",
