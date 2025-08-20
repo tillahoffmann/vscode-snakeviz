@@ -1,8 +1,10 @@
-out
-dist
-node_modules
+.DS_Store
+.ipynb_checkpoints/
+.vscode
 .vscode-test/
 *.vsix
-.vscode
+dist
+node_modules
+out
 playground/
-.ipynb_checkpoints/
+playground/
