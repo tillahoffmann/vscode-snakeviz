@@ -7,7 +7,7 @@
 	"displayName": "Snakeviz",
 	"description": "Visualize python profiling results using snakeviz.",
 	"icon": "icon.png",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"engines": {
 		"vscode": "^1.66.0"
 	},
@@ -54,5 +54,8 @@
 	},
 	"extensionDependencies": [
 		"ms-python.python"
-	]
+	],
+	"dependencies": {
+		"@vscode/python-extension": "^1.0.2"
+	}
 }
